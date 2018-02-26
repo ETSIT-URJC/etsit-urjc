@@ -3,7 +3,7 @@
 open ETSIT-URJC es un espacio de encuentro abierto para los futuros
 alumnos, los actuales, y los exalumnos de la Escuela Técnica Superior de Ingeniería de Telecomunicación.
 
-### ¿Qué puedo estudiar en la ETSIT-URJC?
+### ¿Qué grados puedo estudiar en la ETSIT-URJC?
 
 * Ingeniería en Robótica Software
 * Biomedical Engineering (Campus de Alcorcón)
