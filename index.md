@@ -1,7 +1,8 @@
-### open.ETSIT.urjc.es
-<img src="logo-etsit.png" alt="logo-urjc" style="width: 400px;"/>
+<img src="logo-etsit.png" alt="logo-urjc" style="width: 200px;"/>
 
-open.ETSIT.urjc.es está abierto a futuros alumnos, alumnos actuales, y antiguos alumnos de nuestra escuela. ¡Bienvenidos!
+open.ETSIT.urjc.es es un espacio de encuentro entre los futuros
+alumnos, los actuales, y los exalumnos de nuestra
+escuela. ¡Bienvenidos todos!
 
 ### ¿Qué se estudia en ETSIT-URJC?
 
@@ -14,8 +15,7 @@ open.ETSIT.urjc.es está abierto a futuros alumnos, alumnos actuales, y antiguos
 * Ingeniería en Sistemas de Telecomunicación
 * Ingeniería en Tecnologías de la Telecomunicación
 * Ingeniería en Telemática
-
-* Dobles grados:
+* **Dobles grados**:
   * Ingeniería en Sistemas de Telecomunicación + Administración y Dirección de Empresas
   * Ingeniería en Tecnologías de la Telecomunicación + Ingeniería Aeroespacial en Aeronavegación
 
