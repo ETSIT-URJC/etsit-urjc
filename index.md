@@ -1,3 +1,5 @@
+<img src="logo-etsit.png" alt="logo-urjc" style="width: 400px;"/>
+
 ### Bienvenido a OPEN.ETSIT.urjc.es
 ## El espacio abierto de la Escuela Técnica Superior de Ingeniería de Telecomunicación de la URJC
 
@@ -5,7 +7,7 @@
 - Abierto a los actuales alumnos 
 - Abierto a exalumnos
 
-<img src="logo-etsit.png" alt="logo-urjc" style="width: 200px;"/>
+
 
 # ETSIT
 
