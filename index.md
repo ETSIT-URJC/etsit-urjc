@@ -1,10 +1,9 @@
 <img src="logo-etsit.png" alt="logo-urjc" style="width: 200px;"/>
 
 open.ETSIT.urjc.es es un espacio de encuentro entre los futuros
-alumnos, los actuales, y los exalumnos de nuestra
-escuela. ¡Bienvenidos todos!
+alumnos, los actuales, y los exalumnos de nuestra escuela.
 
-### ¿Qué se estudia en ETSIT-URJC?
+### ¿Qué puedo estudiar en la ETSIT-URJC?
 
 * Ingeniería en Robótica Software
 * Biomedical Engineering (Campus de Alcorcón)
