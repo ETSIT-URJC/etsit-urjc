@@ -9,7 +9,7 @@ para conocer in situ los laboratorios de nuestra escuela en el campus
 de Fuenlabrada de la URJC: los profesores te explicarán qué se hace en
 cada laboratorio, podrás asistir como oyente a clases reales y participar en actividades preparadas para los futuros alumnos de nuestra escuela. **¡No te lo pierdas!**
 
-Lee este artículo para saber más sobre las salidas profesionales de la ingeniería de telecomunicación: [El ingeniero de telecomunicación, un perfil profesional que escasea](https://cincodias.elpais.com/cincodias/2017/12/07/fortunas/1512672717_671641.html). Y no olvides ver este vídeo sobre *los ingenieros de lo invisible* en este vídeo:
+Lee este artículo para saber más sobre las salidas profesionales de la ingeniería de telecomunicación: [El ingeniero de telecomunicación, un perfil profesional que escasea](https://cincodias.elpais.com/cincodias/2017/12/07/fortunas/1512672717_671641.html). Y no olvides ver este vídeo sobre *los ingenieros de lo invisible*:
 [![¿La ingeniería de Telecomunicación?](https://j.gifs.com/oQm8NK.gif)](https://www.youtube.com/watch?v=HG6zss64QIQ) 
 
 
