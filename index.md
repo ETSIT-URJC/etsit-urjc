@@ -1,7 +1,7 @@
-<img src="logo-etsit.png" alt="logo-urjc" style="width: 200px;"/>
-
-open ETSIT-URJC es un espacio de encuentro abierto para los futuros
-alumnos, los actuales, y los exalumnos de la Escuela Técnica Superior de Ingeniería de Telecomunicación.
+<img src="logo-etsit.png" alt="logo-urjc" style="width: 200px;"/> open
+ETSIT-URJC es un espacio de encuentro abierto para los futuros
+alumnos, los actuales, y los exalumnos de la Escuela Técnica Superior
+de Ingeniería de Telecomunicación.
 
 Ven a visitarnos, estamos abiertos. [Apúntate a una
 visita](https://docs.google.com/forms/d/e/1FAIpQLScOgBeQpwtdsDgNUp7CHEr-YBsJX2y7Aga453hMLL6sPR157g/viewform)
@@ -115,7 +115,7 @@ laboratorios que la ETSIT-URJC tiene en el Campus de Fuenlabrada:
      utilizados en prácticas relacionadas con el desarrollo de
      aplicaciones, sistemas distribuidos, concurrencia y Cloud
      Computing.
-12. **Laboratorio de Virtualización de Redes    (softwa**re). L3210. Laboratorio con 70 máquinas (más un puesto de
+12. **Laboratorio de Virtualización de Redes   (software)**. L3210. Laboratorio con 70 máquinas (más un puesto de
      profesor) configuradas como estaciones de trabajo de tipo Unix
      (GNU/Linux y BSD). Todos ellos son Dell OptiPlex i7 con 16GB de
      RAM y 250GB de almacenamiento. Los equipos están conectados
