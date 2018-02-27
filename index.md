@@ -1,5 +1,5 @@
 <img src="logo-etsit.png" alt="logo-urjc" style="width: 200px;" align="left" /> open
-ETSIT es un espacio de encuentro abierto a los futuros
+ETSIT URJC es un espacio de encuentro abierto a los futuros
 alumnos, a los actuales y a los exalumnos de la Escuela Técnica Superior
 de Ingeniería de Telecomunicación de la URJC.
 
@@ -28,7 +28,11 @@ lo pierdas!**
 ### 23 laboratorios en el campus de Fuenlabrada
 
 Cada semana cientos de alumnos tienen clase de grado en los 23
-laboratorios que la ETSIT-URJC tiene en el Campus de Fuenlabrada:
+laboratorios que la ETSIT-URJC tiene en el Campus de
+Fuenlabrada. Este, junto al excelente personal docente e investigador
+y los alumnos, es uno de los principales activos de nuestra escuela de
+ingeniería. Conoce nuestros laboratorios, y recuerda que puedes venir
+a visitarlos:
 
 1. **Laboratorio de Ingeniería Aeroespacial (software y hardware)**. L3102
       y L3103. Dotado de servidores remotos de alto rendimiento para
