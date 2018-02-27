@@ -17,7 +17,7 @@ El edificio Hangar/Laboratorio VI sigue llenándose de instrumental, naves aeroe
 [![Laboratorios VI](https://j.gifs.com/Jq1zVo.gif)](https://www.youtube.com/watch?v=lZEAVjVpQ1U)
 
 
-# ¿Qué grados puedo estudiar en la ETSIT-URJC?
+# ¿Qué grados puedo estudiar en la ETSIT URJC?
 
   * **Ingeniería en Robótica Software** (Nuevo grado ofertado para este próximo curso académico)
   * [Ingeniería Biomédica](http://www.urjc.es/universidad/facultades/escuela-tecnica-superior-de-ingenieria-de-las-telecomunicaciones/2001-ingenieria-biomedica)
@@ -37,7 +37,7 @@ El edificio Hangar/Laboratorio VI sigue llenándose de instrumental, naves aeroe
 # 23+1 laboratorios en el campus de Fuenlabrada
 
 Cada semana cientos de alumnos tienen sus clases de grado en los 23+1
-laboratorios que la ETSIT-URJC tiene en el Campus de
+laboratorios que la ETSIT URJC tiene en el Campus de
 Fuenlabrada. Este, junto al excelente personal docente e investigador
 y los alumnos, es uno de los principales activos de nuestra escuela de
 ingeniería. Conoce nuestros laboratorios, y [recuerda que puedes venir
@@ -201,5 +201,5 @@ a visitarlos](https://docs.google.com/forms/d/e/1FAIpQLScOgBeQpwtdsDgNUp7CHEr-YB
 23.  **Sala Anecoica**. Sótano edificio Laboratorios II.
 24.  **Hangar/Laboratorio VI**
 
-# Actualidad ETSIT-URJC
+# Actualidad ETSIT URJC
 <a class="twitter-timeline" data-width="400" data-theme="dark" href="https://twitter.com/ETSIT_URJC?ref_src=twsrc%5Etfw">Tweets by ETSIT_URJC</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
