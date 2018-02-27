@@ -34,11 +34,10 @@ El edificio Hangar/Laboratorios VI está llenándose de instrumentos, naves aero
     * [Ingeniería en Tecnologías de la Telecomunicación + Ingeniería Aeroespacial en Aeronavegación](http://www.urjc.es/universidad/facultades/escuela-tecnica-superior-de-ingenieria-de-las-telecomunicaciones/693-ingenieria-en-tecnologias-de-la-telecomunicacion-ingenieria-aeroespacial-en-aeronavegacion)
 
 
-¿Qué es la ingeniería de Telecomunicación? <iframe width="560" height="420" src="http://www.youtube.com/embed/oHg5SJYRHA0?color=white&theme=light"></iframe>
 
-### 23 laboratorios en el campus de Fuenlabrada
+### 23+1 laboratorios en el campus de Fuenlabrada
 
-Cada semana cientos de alumnos tienen clase de grado en los 23
+Cada semana cientos de alumnos tienen sus clases de grado en los 23+1
 laboratorios que la ETSIT-URJC tiene en el Campus de
 Fuenlabrada. Este, junto al excelente personal docente e investigador
 y los alumnos, es uno de los principales activos de nuestra escuela de
@@ -201,6 +200,7 @@ a visitarlos](https://docs.google.com/forms/d/e/1FAIpQLScOgBeQpwtdsDgNUp7CHEr-YB
      multiportadora.
 22.  **Sala Reverberante**. Sótano edificio Laboratorios II.
 23.  **Sala Anecoica**. Sótano Laboratorios II.
+24.  **Hangar/Laboratorio VI**
 
 ## Actualidad ETSIT-URJC
 <a class="twitter-timeline" data-width="400" data-theme="dark" href="https://twitter.com/ETSIT_URJC?ref_src=twsrc%5Etfw">Tweets by ETSIT_URJC</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
