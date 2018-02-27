@@ -22,8 +22,8 @@ Ven a visitarnos. [Queda con nosotros](https://docs.google.com/forms/d/e/1FAIpQL
 
 ### 23 laboratorios en el campus de Fuenlabrada
 
-    Cada semana cientos de alumnos tienen clase de grado en los 23
-    laboratorios que la ETSIT-URJC tiene en el Campus de Fuenlabrada:
+Cada semana cientos de alumnos tienen clase de grado en los 23
+laboratorios que la ETSIT-URJC tiene en el Campus de Fuenlabrada:
 
 1. **Laboratorio de Ingeniería Aeroespacial (software y hardware)**. L3102
       y L3103. Dotado de servidores remotos de alto rendimiento para
