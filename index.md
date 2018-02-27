@@ -24,7 +24,7 @@ Ven a visitarnos. [Queda con nosotros](https://docs.google.com/forms/d/e/1FAIpQL
     grado en los 23 laboratorios que la ETSIT-URJC tiene en el Campus
     de Fuenlabrada:
 
-1. Laboratorio de Ingeniería Aeroespacial (software y hardware). L3102
+1. **Laboratorio de Ingeniería Aeroespacial (software y hardware)**. L3102
       y L3103. Dotado de servidores remotos de alto rendimiento para
       la ejecución de programa de optimización y control. Incluye
       también 40 puestos de simulación de vuelo asistidos por
