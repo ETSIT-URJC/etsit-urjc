@@ -20,12 +20,12 @@ lo pierdas!**
   * [Ingeniería Aeroespacial en Vehículos Aeroespaciales](http://www.urjc.es/universidad/facultades/escuela-tecnica-superior-de-ingenieria-de-las-telecomunicaciones/2460-ingenieria-aeroespacial-en-vehiculos-aeroespaciales)
   * [Ingeniería en Telemática](http://www.urjc.es/universidad/facultades/escuela-tecnica-superior-de-ingenieria-de-las-telecomunicaciones/634-ingenieria-telematica). Ver [vídeo de alumnos](https://vimeo.com/12791178)
   * [Ingeniería en Sistemas de Telecomunicación](http://www.urjc.es/universidad/facultades/escuela-tecnica-superior-de-ingenieria-de-las-telecomunicaciones/636-ingenieria-en-sistemas-de-la-telecomunicacion). Ver [vídeo de alumnos](https://vimeo.com/12789875)
-  * [Ingeniería en Sistemas Audiovisuales y Multimedia](http://www.urjc.es/universidad/facultades/escuela-tecnica-superior-de-ingenieria-de-las-telecomunicaciones/637-ingenieria-en-sistemas-audiovisuales-y-multimedia). Ver [ídeo de alumnos](https://vimeo.com/12850279)
+  * [Ingeniería en Sistemas Audiovisuales y Multimedia](http://www.urjc.es/universidad/facultades/escuela-tecnica-superior-de-ingenieria-de-las-telecomunicaciones/637-ingenieria-en-sistemas-audiovisuales-y-multimedia). Ver [vídeo de alumnos](https://vimeo.com/12850279)
   * **Dobles grados**:
     * [Ingeniería en Sistemas de Telecomunicación + Administración y Dirección de Empresas](http://www.urjc.es/universidad/facultades/escuela-tecnica-superior-de-ingenieria-de-las-telecomunicaciones/1005-ingenieria-en-sistemas-de-telecomunicacion-administracion-y-direccion-de-empresas)
     * [Ingeniería en Tecnologías de la Telecomunicación + Ingeniería Aeroespacial en Aeronavegación](http://www.urjc.es/universidad/facultades/escuela-tecnica-superior-de-ingenieria-de-las-telecomunicaciones/693-ingenieria-en-tecnologias-de-la-telecomunicacion-ingenieria-aeroespacial-en-aeronavegacion)
 
-[![La ingeniería de Telecomunicación?](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=HG6zss64QIQ)
+[![La ingeniería de Telecomunicación?](https://gifs.com/gif/vdeo-corporativo-de-los-ingenieros-de-telecomunicacin-versin-ntegra-PZGgRn)](https://www.youtube.com/watch?v=HG6zss64QIQ)
 
 ¿Qué es la ingeniería de Telecomunicación? <iframe width="560" height="420" src="http://www.youtube.com/embed/oHg5SJYRHA0?color=white&theme=light"></iframe>
 
