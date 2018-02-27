@@ -3,7 +3,12 @@
 open ETSIT-URJC es un espacio de encuentro abierto para los futuros
 alumnos, los actuales, y los exalumnos de la Escuela Técnica Superior de Ingeniería de Telecomunicación.
 
-Ven a visitarnos. [Queda con nosotros](https://docs.google.com/forms/d/e/1FAIpQLScOgBeQpwtdsDgNUp7CHEr-YBsJX2y7Aga453hMLL6sPR157g/viewform) para visitar los laboratorios de nuestra escuela en el campus de Fuenlabrada de la URJC: los profesores te explicarán qué se hace en cada laboratorio, podrás acceder como oyente a clases en directo. No te lo pierdas.
+Ven a visitarnos, estamos abiertos. [Apúntate a una
+visita](https://docs.google.com/forms/d/e/1FAIpQLScOgBeQpwtdsDgNUp7CHEr-YBsJX2y7Aga453hMLL6sPR157g/viewform)
+para conocer los laboratorios de nuestra escuela en el campus de
+Fuenlabrada de la URJC: los profesores te explicarán qué se hace en
+cada laboratorio, podrás acceder como oyente a clases reales. **¡No
+te lo pierdas!**
 
 ### ¿Qué grados puedo estudiar en la ETSIT-URJC?
 
