@@ -10,7 +10,9 @@ de Fuenlabrada de la URJC: los profesores te explicarán qué se hace en
 cada laboratorio, podrás acceder como oyente a clases reales. **¡No te
 lo pierdas!**
 
-[![La ingeniería de Telecomunicación?](https://j.gifs.com/oQm8NK.gif)](https://www.youtube.com/watch?v=HG6zss64QIQ)
+[![¿La ingeniería de Telecomunicación?](https://j.gifs.com/oQm8NK.gif)](https://www.youtube.com/watch?v=HG6zss64QIQ)
+[![Laboratorios VI](https://j.gifs.com/Jq1zVo.gif)](https://www.youtube.com/watch?v=lZEAVjVpQ1U)
+
 
 ### ¿Qué grados puedo estudiar en la ETSIT-URJC?
 
