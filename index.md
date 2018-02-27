@@ -1,4 +1,4 @@
-<img src="logo-etsit.png" alt="logo-urjc" style="width: 200px;" align=top/> open
+<img src="logo-etsit.png" alt="logo-urjc" style="width: 200px;" align="top" /> open
 ETSIT-URJC es un espacio de encuentro abierto para los futuros
 alumnos, los actuales, y los exalumnos de la Escuela Técnica Superior
 de Ingeniería de Telecomunicación.
