@@ -13,7 +13,7 @@ Lee este artículo para saber más sobre las salidas profesionales de la ingenie
 [![¿La ingeniería de Telecomunicación?](https://j.gifs.com/oQm8NK.gif)](https://www.youtube.com/watch?v=HG6zss64QIQ) 
 
 
-El edificio Hangar/Laboratorios VI está llenándose de instrumentos, naves aeroespaciales, simuladores de vuelo,... Ya está casi a punto de poder ser utilizado por nuestros alumnos de grado. Ven a conocerlo en este vídeo:
+El edificio Hangar/Laboratorio VI sigue llenándose de instrumental, naves aeroespaciales y simuladores de vuelo. Ya está casi a punto de poder ser utilizado por nuestros alumnos de grado. Entra a verlo en este vídeo:
 [![Laboratorios VI](https://j.gifs.com/Jq1zVo.gif)](https://www.youtube.com/watch?v=lZEAVjVpQ1U)
 
 
