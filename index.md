@@ -12,18 +12,18 @@ lo pierdas!**
 
 ### ¿Qué grados puedo estudiar en la ETSIT-URJC?
 
-* Ingeniería en Robótica Software
-* Biomedical Engineering (Campus de Alcorcón)
-* Ingeniería Aeroespacial en Aeronavegación
-* Ingeniería Aeroespacial en Vehículos Aeroespaciales
-* Ingeniería Biomédica
-* Ingeniería en Sistemas Audiovisuales y Multimedia
-* Ingeniería en Sistemas de Telecomunicación
-* Ingeniería en Tecnologías de la Telecomunicación
-* Ingeniería en Telemática
+* Ingeniería en Robótica Software (Nuevo grado ofertado para este próximo curso académico)
+* [Ingeniería Biomédica](http://www.urjc.es/universidad/facultades/escuela-tecnica-superior-de-ingenieria-de-las-telecomunicaciones/2001-ingenieria-biomedica)
+* [Ingeniería en Tecnologías de la Telecomunicación](http://www.urjc.es/universidad/facultades/escuela-tecnica-superior-de-ingenieria-de-las-telecomunicaciones/635-ingenieria-en-tecnologias-de-la-telecomunicacion)
+* [Biomedical Engineering (Campus de Alcorcón)](http://www.urjc.es/universidad/facultades/escuela-tecnica-superior-de-ingenieria-de-las-telecomunicaciones/2462-biomedial-engineering)
+* [Ingeniería Aeroespacial en Aeronavegación](http://www.urjc.es/universidad/facultades/escuela-tecnica-superior-de-ingenieria-de-las-telecomunicaciones/648-ingenieria-aeroespacial-en-aeronavegacion)
+* [Ingeniería Aeroespacial en Vehículos Aeroespaciales](http://www.urjc.es/universidad/facultades/escuela-tecnica-superior-de-ingenieria-de-las-telecomunicaciones/2460-ingenieria-aeroespacial-en-vehiculos-aeroespaciales)
+* [Ingeniería en Telemática](http://www.urjc.es/universidad/facultades/escuela-tecnica-superior-de-ingenieria-de-las-telecomunicaciones/634-ingenieria-telematica)
+* [Ingeniería en Sistemas de Telecomunicación](http://www.urjc.es/universidad/facultades/escuela-tecnica-superior-de-ingenieria-de-las-telecomunicaciones/636-ingenieria-en-sistemas-de-la-telecomunicacion)
+* [Ingeniería en Sistemas Audiovisuales y Multimedia](http://www.urjc.es/universidad/facultades/escuela-tecnica-superior-de-ingenieria-de-las-telecomunicaciones/637-ingenieria-en-sistemas-audiovisuales-y-multimedia)
 * **Dobles grados**:
-  * Ingeniería en Sistemas de Telecomunicación + Administración y Dirección de Empresas
-  * Ingeniería en Tecnologías de la Telecomunicación + Ingeniería Aeroespacial en Aeronavegación
+  * [Ingeniería en Sistemas de Telecomunicación + Administración y Dirección de Empresas](http://www.urjc.es/universidad/facultades/escuela-tecnica-superior-de-ingenieria-de-las-telecomunicaciones/1005-ingenieria-en-sistemas-de-telecomunicacion-administracion-y-direccion-de-empresas)
+  * [Ingeniería en Tecnologías de la Telecomunicación + Ingeniería Aeroespacial en Aeronavegación](http://www.urjc.es/universidad/facultades/escuela-tecnica-superior-de-ingenieria-de-las-telecomunicaciones/693-ingenieria-en-tecnologias-de-la-telecomunicacion-ingenieria-aeroespacial-en-aeronavegacion)
 
 ### 23 laboratorios en el campus de Fuenlabrada
 
