@@ -198,7 +198,7 @@ a visitarlos](https://docs.google.com/forms/d/e/1FAIpQLScOgBeQpwtdsDgNUp7CHEr-YB
      etc. hasta sistemas de comunicaciones digitales de banda ancha
      multiportadora.
 22.  **Sala Reverberante**. Sótano edificio Laboratorios II.
-23.  **Sala Anecoica**. Sótano Laboratorios II.
+23.  **Sala Anecoica**. Sótano edificio Laboratorios II.
 24.  **Hangar/Laboratorio VI**
 
 # Actualidad ETSIT-URJC
