@@ -10,7 +10,12 @@ de Fuenlabrada de la URJC: los profesores te explicarán qué se hace en
 cada laboratorio, podrás acceder como oyente a clases reales. **¡No te
 lo pierdas!**
 
-[![¿La ingeniería de Telecomunicación?](https://j.gifs.com/oQm8NK.gif)](https://www.youtube.com/watch?v=HG6zss64QIQ) [![Laboratorios VI](https://j.gifs.com/Jq1zVo.gif)](https://www.youtube.com/watch?v=lZEAVjVpQ1U)
+[El ingeniero de telecomunicación, un perfil profesional que escasea](https://cincodias.elpais.com/cincodias/2017/12/07/fortunas/1512672717_671641.html). Conoce más sobre los ingenieros de lo invisible en este vídeo:
+[![¿La ingeniería de Telecomunicación?](https://j.gifs.com/oQm8NK.gif)](https://www.youtube.com/watch?v=HG6zss64QIQ) 
+
+
+El edificio Hangar/Laboratorios VI está llenándose de instrumentos, naves aeroespaciales, simuladores de vuelo,... Ya está casi a punto de poder ser utilizado por nuestros alumnos de grado. Ven a conocerlo en este vídeo:
+[![Laboratorios VI](https://j.gifs.com/Jq1zVo.gif)](https://www.youtube.com/watch?v=lZEAVjVpQ1U)
 
 
 ### ¿Qué grados puedo estudiar en la ETSIT-URJC?
