@@ -3,8 +3,10 @@ ETSIT URJC es un espacio de encuentro abierto a los futuros
 alumnos, a los actuales y a los exalumnos de la Escuela Técnica Superior
 de Ingeniería de Telecomunicación de la URJC.
 
+[Pregúntanos lo que necesites saber sobre los estudios de la ETSIT URJC y te contestaremos](https://docs.google.com/forms/d/e/1FAIpQLSfq8PPwKMqxfPQz08-ZcpVyQrPoycx_PFC5D_5j7A9lUUfr4w/viewform)
+
 Estás invitado a venir a
-visitarnos. [Apúntate](https://docs.google.com/forms/d/e/1FAIpQLScOgBeQpwtdsDgNUp7CHEr-YBsJX2y7Aga453hMLL6sPR157g/viewform)
+visitarnos al campus de Fuenlabrada. [Apúntate](https://docs.google.com/forms/d/e/1FAIpQLScOgBeQpwtdsDgNUp7CHEr-YBsJX2y7Aga453hMLL6sPR157g/viewform)
 para conocer in situ los laboratorios de nuestra escuela en el campus
 de Fuenlabrada de la URJC: los profesores te explicarán qué se hace en
 cada laboratorio, podrás asistir como oyente a clases reales y participar en actividades preparadas para los futuros alumnos de nuestra escuela. **¡No te lo pierdas!**
@@ -203,3 +205,12 @@ a visitarlos](https://docs.google.com/forms/d/e/1FAIpQLScOgBeQpwtdsDgNUp7CHEr-YB
 
 # Actualidad ETSIT URJC
 <a class="twitter-timeline" data-width="400" data-theme="dark" href="https://twitter.com/ETSIT_URJC?ref_src=twsrc%5Etfw">Tweets by ETSIT_URJC</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+[Pregúntanos lo que necesites saber sobre los estudios de la ETSIT URJC y te contestaremos](https://docs.google.com/forms/d/e/1FAIpQLSfq8PPwKMqxfPQz08-ZcpVyQrPoycx_PFC5D_5j7A9lUUfr4w/viewform)
+
+Estás invitado a venir a
+visitarnos al campus de Fuenlabrada. [Apúntate](https://docs.google.com/forms/d/e/1FAIpQLScOgBeQpwtdsDgNUp7CHEr-YBsJX2y7Aga453hMLL6sPR157g/viewform)
+para conocer in situ los laboratorios de nuestra escuela en el campus
+de Fuenlabrada de la URJC: los profesores te explicarán qué se hace en
+cada laboratorio, podrás asistir como oyente a clases reales y participar en actividades preparadas para los futuros alumnos de nuestra escuela. **¡No te lo pierdas!**
+
