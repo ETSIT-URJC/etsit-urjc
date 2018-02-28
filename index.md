@@ -75,35 +75,24 @@ a visitarlos](https://docs.google.com/forms/d/e/1FAIpQLScOgBeQpwtdsDgNUp7CHEr-YB
      aeronaves. Así mismo, cuenta con diferentes sistemas de
      propulsión, como por ejemplo un aerorreactor de doble flujo,
      turbinas, compresores, álabes y hélices.
-5. **Aulas Informáticas Windows (software)**. L3202, L3203. Laboratorios de
-     informática con total de 60 ordenadores personales con el sistema
-     operativo Windows, con software especializado de simulación y
-     programación. Estos laboratorios están administrados por el
-     Servicio de Informática de la URJC y tienen una configuración
-     dual para su uso en la ETSIT, como estaciones de trabajo y como
-     puestos virtualizados en el esquema de virtualización estándar de
-     la URJC. Estos equipos cuentan con monitores de alta resolución,
-     discos duros de alta velocidad, 4/8 GB de memoria y procesadores
-     i5 o similar. Los equipos están también conectados mediante una
-     red Ethernet 100 Mbit/s.
-6. **Laboratorio de Ingeniería Biomédica (software y hardware)**. L3204. Dotado de 20 puestos que combinan programas de
+5. **Laboratorio de Ingeniería Biomédica (software y hardware)**. L3204. Dotado de 20 puestos que combinan programas de
      simulación con instrumentación biomédica (captación y
      procesamiento). Incluye también servidores remotos para la
      ejecución de software de simulación y optimización de alto
      rendimiento.
-7. **Laboratorio de Microoondas y Alta Frecuencia (hardware)**. L3205. Este
+6. **Laboratorio de Microoondas y Alta Frecuencia (hardware)**. L3205. Este
   laboratorio consta de 20 puestos de trabajo para realizar prácticas
   de medida de señales de radiofrecuencia y construcción de circuitos
   de microondas equipados (generadores de señal, analizadores de redes
   y bancos de microondas, antenas isotrópicas y directivas, arrays de
   antenas, estructuras para el posicionamiento de sistemas radiantes,
   analizadores de espectros y analizadores de espectro móviles).
-8. **Laboratorio de Terminales de Comunicación (software y hardware)**. L3206 Este laboratorio consta de 20 puestos de trabajo
+7. **Laboratorio de Terminales de Comunicación (software y hardware)**. L3206 Este laboratorio consta de 20 puestos de trabajo
      dotados de transceptores WiFi, WiMAX, LEO, GEO, equipos de
      software designed radio, receptores GPS y sensores inalámbricos
      para diseñar y poner en funcionamiento redes y sistemas de
      telecomunicación.
-9. **Laboratorio de Sistemas Operativos y Middleware (software)**. L3207. Laboratorio con 50 máquinas (más un puesto de
+8. **Laboratorio de Sistemas Operativos y Middleware (software)**. L3207. Laboratorio con 50 máquinas (más un puesto de
      profesor) configuradas como estaciones de trabajo de tipo Unix
      (GNU/Linux y BSD). Todos ellos cuentan son Dell OptiPlex i5 con
      16GB de RAM y 500GB, con tarjeta gráfica NVidia GeForce 645. Los
@@ -115,7 +104,7 @@ a visitarlos](https://docs.google.com/forms/d/e/1FAIpQLScOgBeQpwtdsDgNUp7CHEr-YB
      GNU/Linux y BSD (L3208, L3209, L3210, L2001), proporcionando un
      entorno homogéneo al usuario, accesible en remoto a través un
      conjunto de máquinas virtuales disponibles 24/7. 
-10. **Laboratorio de Arquitecturas de Red (software)**. L3208. Laboratorio
+9. **Laboratorio de Arquitecturas de Red (software)**. L3208. Laboratorio
      con 50 máquinas (más un puesto de profesor) configuradas como
      estaciones de trabajo de tipo Unix (GNU/Linux y BSD). Todos ellos
      cuentan son Dell OptiPlex i5 con 16GB de RAM y 500GB, con tarjeta
@@ -124,7 +113,7 @@ a visitarlos](https://docs.google.com/forms/d/e/1FAIpQLScOgBeQpwtdsDgNUp7CHEr-YB
      que incluye entornos completos de desarrollo de software en todos
      los lenguajes utilizados en prácticas relacionadas con las
      arquitecturas de red y asignaturas de telemática.
-11. **Laboratorio de Sistemas Distribuidos y Cloud Computing (software)**. L3209. Laboratorio con 56 máquinas (más un puesto de
+10. **Laboratorio de Sistemas Distribuidos y Cloud Computing (software)**. L3209. Laboratorio con 56 máquinas (más un puesto de
      profesor) configuradas como estaciones de trabajo de tipo Unix
      (GNU/Linux y BSD). Todos ellos son Dell OptiPlex i5 con 16GB de
      RAM y 500GB, con tarjeta gráfica NVidia GeForce 645. Los equipos
@@ -134,7 +123,7 @@ a visitarlos](https://docs.google.com/forms/d/e/1FAIpQLScOgBeQpwtdsDgNUp7CHEr-YB
      utilizados en prácticas relacionadas con el desarrollo de
      aplicaciones, sistemas distribuidos, concurrencia y Cloud
      Computing.
-12. **Laboratorio de Virtualización de Redes   (software)**. L3210. Laboratorio con 70 máquinas (más un puesto de
+11. **Laboratorio de Virtualización de Redes   (software)**. L3210. Laboratorio con 70 máquinas (más un puesto de
      profesor) configuradas como estaciones de trabajo de tipo Unix
      (GNU/Linux y BSD). Todos ellos son Dell OptiPlex i7 con 16GB de
      RAM y 250GB de almacenamiento. Los equipos están conectados
@@ -143,7 +132,7 @@ a visitarlos](https://docs.google.com/forms/d/e/1FAIpQLScOgBeQpwtdsDgNUp7CHEr-YB
      desarrollo de software en todos los lenguajes utilizados en
      prácticas relacionadas con virtualización y desarrollo de
      sistemas telemáticos.
-13. **Laboratorio de Desarrollo Web (software)**. L2001. Laboratorio con 20
+12. **Laboratorio de Desarrollo Web (software)**. L2001. Laboratorio con 20
       máquinas (más un puesto de profesor) configuradas como
       estaciones de trabajo de tipo Unix (GNU/Linux y BSD). Todos
       ellos cuentan de monitores de alta resolución, discos duros de
@@ -153,7 +142,7 @@ a visitarlos](https://docs.google.com/forms/d/e/1FAIpQLScOgBeQpwtdsDgNUp7CHEr-YB
       entornos de virtualización y entornos de desarrollo de software
       en todos los lenguajes utilizados en prácticas relacionadas con
       el desarrollo de aplicaciones web.
-14. **Aulas Informáticas Windows (software)**. Laboratorios L2005,
+13. **Aulas Informáticas Windows (software)**. Laboratorios L2005,
      L2006. Laboratorios de informática con total de 80 ordenadores
      personales con el sistema operativo Windows, con software
      especializado de simulación y programación. Estos laboratorios
@@ -164,37 +153,48 @@ a visitarlos](https://docs.google.com/forms/d/e/1FAIpQLScOgBeQpwtdsDgNUp7CHEr-YB
      monitores de alta resolución, discos duros de alta velocidad, 4/8
      GB de memoria y procesadores i5 o similar. Los equipos están
      también conectados mediante una red Ethernet 100 Mbit/s.
-15. **Laboratorio de Equipos y Tratamiento de Información Multimedia
+14. **Laboratorio de Equipos y Tratamiento de Información Multimedia
      (software y hardware)**. L2007. Este laboratorio consta de 15
      puestos de trabajo dotados del hardware y el software necesario
      para llevar a cabo procesamiento digital de audio. También consta
      de 15 puestos para el análisis y planificación de equipos y
      sistemas audiovisuales.
-16. **Laboratorio de Física (hardware)**. L2008. Este laboratorio consta de
+15. **Laboratorio de Física (hardware)**. L2008. Este laboratorio consta de
      más de 50 puestos de trabajo con el equipamiento necesario para
      realizar diversos tipos de prácticas de física (mecánica,
      dinámica, electromagnetismo, etc.).
-17. **Laboratorio de Procesamiento Digital (software y hardware)**. L2009. Este laboratorio consta de 40 puestos de
+16. **Laboratorio de Procesamiento Digital (software y hardware)**. L2009. Este laboratorio consta de 40 puestos de
      trabajo equipados con placas DSP (procesadores digitales de
      señal, conversores A/D, muestreadores, dispositivos de control,
      transceptores audio,…) para realizar procesado digital de señal
      en tiempo real.
-18. **Laboratorio de Electrónica (hardware)**. L2010. Este laboratorio
+17. **Laboratorio de Electrónica (hardware)**. L2010. Este laboratorio
      consta de 40 puestos de trabajo equipados con placas Coldfire
      para realizar prácticas básicas de diseño y programación a bajo
      nivel de microcomputadores (microprocesadores, FPGAs, circuitos
      de acondicionamiento, osciloscopios, placas de inserción).
-19. **Laboratorio de Televisión Digital (software y hardware)**. L2102. Este
+18. **Laboratorio de Televisión Digital (software y hardware)**. L2102. Este
      laboratorio consta de 15 puestos de trabajo dotados del hardware
      y el software necesario para el análisis y tratamiento de señal
      de televisión digital. Incluye programas de análisis de audio y
      vídeo de alta definición, equipos, así como moduladores
      multiportadora y tarjetas de recepción de señal.
-20. **Laboratorio de Análisis y Diseño de Circuitos (hardware)**. L2103. Este laboratorio consta de 40 puestos de
+19. **Laboratorio de Análisis y Diseño de Circuitos (hardware)**. L2103. Este laboratorio consta de 40 puestos de
      trabajo dotados de todo el equipamiento necesario (fuentes de
      alimentación, generadores de señal, osciloscopios, polímetros y
      software de control) para diseñar, construir y verificar el
      funcionamiento de circuitos eléctricos y electrónicos.
+20. **Aulas Informáticas Windows (software)**. L3202, L3203. Laboratorios de
+     informática con total de 60 ordenadores personales con el sistema
+     operativo Windows, con software especializado de simulación y
+     programación. Estos laboratorios están administrados por el
+     Servicio de Informática de la URJC y tienen una configuración
+     dual para su uso en la ETSIT, como estaciones de trabajo y como
+     puestos virtualizados en el esquema de virtualización estándar de
+     la URJC. Estos equipos cuentan con monitores de alta resolución,
+     discos duros de alta velocidad, 4/8 GB de memoria y procesadores
+     i5 o similar. Los equipos están también conectados mediante una
+     red Ethernet 100 Mbit/s.
 21. **Laboratorio de Software Defined Radio (hardware)** L2106. Laboratorio
      equipado con puestos de radio definida por software formados por
      PCs dotados de GNURadio y USRPs (Universal Software Radio
