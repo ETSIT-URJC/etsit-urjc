@@ -42,7 +42,7 @@ El edificio Hangar/Laboratorio VI sigue llenándose de instrumental, naves aeroe
 
 # Conoce los 24 laboratorios de la ETSIT en el campus de Fuenlabrada
 
-Cada semana cientos de alumnos tienen sus clases de grado en los 23+1
+Cada semana cientos de alumnos tienen sus clases de grado en los 24
 laboratorios que la ETSIT URJC tiene en el Campus de
 Fuenlabrada. Este, junto al excelente personal docente e investigador
 y los alumnos, es uno de los principales activos de nuestra escuela de
