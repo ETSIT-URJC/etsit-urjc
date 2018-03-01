@@ -23,6 +23,8 @@ Lee este artículo para saber más sobre las salidas profesionales de la ingenie
 El edificio Hangar/Laboratorio VI sigue llenándose de instrumental, naves aeroespaciales y simuladores de vuelo. Ya está casi a punto de poder ser utilizado por nuestros alumnos de grado. Entra a verlo en este vídeo:
 [![Laboratorios VI](https://j.gifs.com/Jq1zVo.gif)](https://www.youtube.com/watch?v=lZEAVjVpQ1U)
 
+[Las profesoras Cristina, Rebeca y Mihaela preparan prácticas para Ingeniería Biomédica](https://www.urjc.es/images/Investigacion/cultura_cientifica/exposicion_mujeres/TIC2.jpg)
+
 
 # ¿Qué grados puedo estudiar en la ETSIT URJC?
 
