@@ -23,6 +23,7 @@ Lee este artículo para saber más sobre las salidas profesionales de la ingenie
 El edificio Hangar/Laboratorio VI sigue llenándose de instrumental, naves aeroespaciales y simuladores de vuelo. Ya está casi a punto de poder ser utilizado por nuestros alumnos de grado. Entra a verlo en este vídeo:
 [![Laboratorios VI](https://j.gifs.com/Jq1zVo.gif)](https://www.youtube.com/watch?v=lZEAVjVpQ1U)
 
+Prácticas en los laboratorios de Ingeniería Biomédica:
 ![Prácticas para Ingeniería Biomédica](/assets/img/biomedica.jpg)
 
 
