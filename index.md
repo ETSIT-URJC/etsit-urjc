@@ -14,17 +14,10 @@ cada laboratorio, podrás asistir como oyente a clases reales y participar en ac
 Nuestros alumnos se divierten aprendiendo en las aulas, en los laboratorios, y por todo el campus:
 [![Mira lo que hacen nuestros alumnos](https://j.gifs.com/kZgMAK.gif)](https://www.youtube.com/watch?v=SQVHy4zkUa0)
 
-Observa lo que hacen los robots programados por nuestros alumnos: [![Observa lo que hacen los robots programados por nuestros alumnos:](https://j.gifs.com/jqBVvY.gif)](https://www.youtube.com/watch?v=yZm0xNN3K3U)
-
 Lee este artículo para saber más sobre las salidas profesionales de la ingeniería de telecomunicación: [El ingeniero de telecomunicación, un perfil profesional que escasea](https://cincodias.elpais.com/cincodias/2017/12/07/fortunas/1512672717_671641.html). Y no olvides ver este vídeo sobre *los ingenieros de lo invisible*:
 [![¿La ingeniería de Telecomunicación?](https://j.gifs.com/oQm8NK.gif)](https://www.youtube.com/watch?v=HG6zss64QIQ) 
 
 
-El edificio Hangar/Laboratorio VI sigue llenándose de instrumental, naves aeroespaciales y simuladores de vuelo. Ya está casi a punto de poder ser utilizado por nuestros alumnos de grado. Entra a verlo en este vídeo:
-[![Laboratorios VI](https://j.gifs.com/Jq1zVo.gif)](https://www.youtube.com/watch?v=lZEAVjVpQ1U)
-
-Prácticas en los laboratorios de Ingeniería Biomédica:
-![Prácticas para Ingeniería Biomédica](/assets/img/biomedica.jpg)
 
 
 # ¿Qué grados puedo estudiar en la ETSIT URJC?
@@ -50,7 +43,20 @@ Cada semana cientos de alumnos tienen sus clases de grado en los 24
 laboratorios que la ETSIT URJC tiene en el Campus de
 Fuenlabrada. Este, junto al excelente personal docente e investigador
 y los alumnos, es uno de los principales activos de nuestra escuela de
-ingeniería. Conoce nuestros laboratorios, y [recuerda que puedes venir
+ingeniería. 
+
+El edificio Hangar/Laboratorio VI sigue llenándose de instrumental, naves aeroespaciales y simuladores de vuelo. Ya está casi a punto de poder ser utilizado por nuestros alumnos de grado. Entra a verlo en este vídeo:
+[![Laboratorios VI](https://j.gifs.com/Jq1zVo.gif)](https://www.youtube.com/watch?v=lZEAVjVpQ1U)
+
+Observa lo que hacen los robots programados por nuestros alumnos en la asignatura de Robótica de Ingeniería Telemática: [![Observa lo que hacen los robots programados por nuestros alumnos:](https://j.gifs.com/jqBVvY.gif)](https://www.youtube.com/watch?v=yZm0xNN3K3U)
+
+Prácticas en los laboratorios de Ingeniería Biomédica:
+![Prácticas para Ingeniería Biomédica](/assets/img/biomedica.jpg)
+
+En algunas asignaturas además los alumnos disponen de laboratorios portables compuestos de material que pueden llevarse a casa para trabajar fuera de la universidad, como este de la asignatura Tecnologías y Protocolos de Internet de Nueva Generación, en el que los alumnos reciben un laboratorio compuesto de switches Ethernet SDN OpenFlow 1.5 y varias Raspberry Pi:
+[![Laboratorios portables](https://j.gifs.com/vowvAg.gif)](https://www.youtube.com/watch?v=xmSDHa7atms). 
+
+Conoce nuestros laboratorios, y [recuerda que puedes venir
 a visitarlos](https://docs.google.com/forms/d/e/1FAIpQLScOgBeQpwtdsDgNUp7CHEr-YBsJX2y7Aga453hMLL6sPR157g/viewform):
 
 1. **Laboratorio de Ingeniería Aeroespacial (software y hardware)**. L3102
