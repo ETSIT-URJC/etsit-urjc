@@ -53,7 +53,8 @@ Observa lo que hacen los robots programados por nuestros alumnos en la asignatur
 Prácticas en los laboratorios de Ingeniería Biomédica:
 ![Prácticas para Ingeniería Biomédica](/assets/img/biomedica.jpg)
 
-En algunas asignaturas además los alumnos disponen de laboratorios portables compuestos de material que pueden llevarse a casa para trabajar fuera de la universidad, como este de la asignatura Tecnologías y Protocolos de Internet de Nueva Generación, en el que los alumnos reciben un laboratorio compuesto de switches Ethernet SDN OpenFlow 1.5 y varias Raspberry Pi:
+En algunas asignaturas además los alumnos disponen de laboratorios portables compuestos de material que pueden llevarse a casa para trabajar fuera de la universidad, como este de la asignatura Tecnologías y Protocolos de Internet de Nueva Generación, en el que los alumnos reciben un laboratorio compuesto de switches Ethernet SDN OpenFlow 1.5 y varias Raspberry Pi. Pincha en el siguiente vídeo:
+
 [![Laboratorios portables](https://j.gifs.com/vowvAg.gif)](https://www.youtube.com/watch?v=xmSDHa7atms). [Les encanta a nuestros alumnos](https://twitter.com/eva_cb/status/963034226810671104).
 
 Conoce nuestros laboratorios, y [recuerda que puedes venir
