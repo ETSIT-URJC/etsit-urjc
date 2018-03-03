@@ -48,7 +48,10 @@ ingeniería.
 El edificio Hangar/Laboratorio VI sigue llenándose de instrumental, naves aeroespaciales y simuladores de vuelo. Ya está casi a punto de poder ser utilizado por nuestros alumnos de grado. Entra a verlo en este vídeo:
 [![Laboratorios VI](https://j.gifs.com/Jq1zVo.gif)](https://www.youtube.com/watch?v=lZEAVjVpQ1U)
 
-Observa lo que hacen los robots programados por nuestros alumnos en la asignatura de Robótica de Ingeniería Telemática: [![Observa lo que hacen los robots programados por nuestros alumnos:](https://j.gifs.com/jqBVvY.gif)](https://www.youtube.com/watch?v=yZm0xNN3K3U)
+Observa lo que hacen los robots programados por nuestros alumnos en la asignatura de Robótica de Ingeniería Telemática: 
+[![Observa lo que hacen los robots programados por nuestros alumnos:](https://j.gifs.com/MQXz2P.gif)](https://www.youtube.com/watch?v=pZJa6olGOlc)
+
+[![Observa lo que hacen los robots programados por nuestros alumnos:](https://j.gifs.com/jqBVvY.gif)](https://www.youtube.com/watch?v=yZm0xNN3K3U)
 
 Prácticas en los laboratorios de Ingeniería Biomédica:
 ![Prácticas para Ingeniería Biomédica](/assets/img/biomedica.jpg)
