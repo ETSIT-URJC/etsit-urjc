@@ -8,7 +8,7 @@ de Ingeniería de Telecomunicación de la URJC.
 ### Curso 1º
 
 | Asignatura        | Cuatrimestre | Créditos |
-| ------------- |:-------------:| -----:|
+| :------------- |:-------------:| -----:|
 | Álgebra      |            1 | 6 |
 | Emprendimiento e Innovación en Robótica      | 1 | 6 |
 | Fundamentos de la Programación      | 1 | 6 |
@@ -23,7 +23,7 @@ de Ingeniería de Telecomunicación de la URJC.
 ### Curso 2º
 
 | Asignatura        | Cuatrimestre | Créditos |
-| ------------- |:-------------:| -----:|
+| :------------- |:-------------:| -----:|
 | Diseño Software      |            1 | 6 |
 | Fundamentos de Automática | 1 | 6 |
 | Fundamentos de Redes de Ordenadores | 1 | 6 |
@@ -38,7 +38,7 @@ de Ingeniería de Telecomunicación de la URJC.
 ### Curso 3º
 
 | Asignatura        | Cuatrimestre | Créditos |
-| ------------- |:-------------:| -----:|
+| :------------- |:-------------:| -----:|
 | Ingeniería de Control|            1 | 6 |
 | Inteligencia Artificial | 1 | 6 |
 | Redes de Ordenadores para Robots y Máquinas Inteligentes | 1 | 6 |
@@ -53,7 +53,7 @@ de Ingeniería de Telecomunicación de la URJC.
 ### Curso 4º
 
 | Asignatura        | Cuatrimestre | Créditos |
-| ------------- |:-------------:| -----:|
+| :------------- |:-------------:| -----:|
 | Aprendizaje Automático |            1 | 6 |
 | Robótica Aérea | 1 | 6 |
 | Mecatrónica | 1 | 6 |
