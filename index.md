@@ -23,7 +23,7 @@ Lee este artículo para saber más sobre las salidas profesionales de la ingenie
 
 # ¿Qué grados puedo estudiar en la ETSIT URJC?
 
-  * [Ingeniería de Robótica Software](grados/robotica-sw) (Nuevo grado ofertado para este próximo curso académico)
+  * [Ingeniería de Robótica Software](grados/robotica-sw) (Nuevo grado ofertado para este próximo curso académico 2018/19)
   * [Ingeniería Biomédica](http://www.urjc.es/universidad/facultades/escuela-tecnica-superior-de-ingenieria-de-las-telecomunicaciones/2001-ingenieria-biomedica)
   * [Ingeniería en Tecnologías de la Telecomunicación](http://www.urjc.es/universidad/facultades/escuela-tecnica-superior-de-ingenieria-de-las-telecomunicaciones/635-ingenieria-en-tecnologias-de-la-telecomunicacion). Ver [vídeo de alumnos](https://vimeo.com/12791620)
   * [Biomedical Engineering (Campus de Alcorcón)](http://www.urjc.es/universidad/facultades/escuela-tecnica-superior-de-ingenieria-de-las-telecomunicaciones/2462-biomedial-engineering)
