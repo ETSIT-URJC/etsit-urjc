@@ -15,3 +15,10 @@ de Ingeniería de Telecomunicación de la URJC.
 | Fundamentos de la Programación      | 1 | 6 |
 | Cálculo| 1 | 6 |
 | Electrónica Digital| 1 | 6 |
+| --- | :----: | ----:|
+| Arquitectura de Computadores      | 2 | 6 |
+| Fundamentos Físicos de la Robótica| 2 | 6 |
+| Algoritmos y Estructuras de Datos | 2 | 6 |
+| Evolución y Futuro de la Robótica | 2 | 6 |
+| Laboratorio de Sistemas | 2 | 6 |
+
