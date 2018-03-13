@@ -2,11 +2,9 @@
 alumnos, a los actuales y a los exalumnos de la Escuela Técnica Superior
 de Ingeniería de Telecomunicación de la URJC.
 
-
 ## Grado de Ingeniería Robótica Software
 
 ### Curso 1º
-
 | Asignatura        | Cuatrimestre | Créditos |
 | :------------- |:-------------:| -----:|
 | Álgebra      |            1 | 6 |
@@ -19,9 +17,9 @@ de Ingeniería de Telecomunicación de la URJC.
 | Algoritmos y Estructuras de Datos | 2 | 6 |
 | Evolución y Futuro de la Robótica | 2 | 6 |
 | Laboratorio de Sistemas | 2 | 6 |
+| | | |
 
 ### Curso 2º
-
 | Asignatura        | Cuatrimestre | Créditos |
 | :------------- |:-------------:| -----:|
 | Diseño Software      |            1 | 6 |
@@ -34,9 +32,9 @@ de Ingeniería de Telecomunicación de la URJC.
 | Probabilidad y Estadística | 2 | 6 |
 | Sistemas Operativos | 2 | 6 |
 | Idioma Moderno  | Anual | 6 |
+| | | |
 
 ### Curso 3º
-
 | Asignatura        | Cuatrimestre | Créditos |
 | :------------- |:-------------:| -----:|
 | Ingeniería de Control|            1 | 6 |
@@ -49,9 +47,9 @@ de Ingeniería de Telecomunicación de la URJC.
 | Planificación y Sistemas Cognitivos | 2 | 6 |
 | Sistemas Empotrados y de Tiempo Real | 2 | 6 |
 | Visión Artificial | 2 | 6 |
+| | | | 
 
 ### Curso 4º
-
 | Asignatura        | Cuatrimestre | Créditos |
 | :------------- |:-------------:| -----:|
 | Aprendizaje Automático |            1 | 6 |
@@ -61,3 +59,5 @@ de Ingeniería de Telecomunicación de la URJC.
 | Robótica de Servicio | 1 | 6 |
 | Prácticas Exernas | Anual  | 18 |
 | Trabajo Fin de Grado| Anual | 12 |
+| | | |
+
