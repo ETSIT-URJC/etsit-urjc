@@ -5,6 +5,7 @@ de Ingeniería de Telecomunicación de la URJC.
 ## Grado de Ingeniería Robótica Software
 
 ### Curso 1º
+
 | Asignatura        | Cuatrimestre | Créditos |
 | :------------- |:-------------:| -----:|
 | Álgebra      |            1 | 6 |
@@ -20,6 +21,7 @@ de Ingeniería de Telecomunicación de la URJC.
 | | | |
 
 ### Curso 2º
+
 | Asignatura        | Cuatrimestre | Créditos |
 | :------------- |:-------------:| -----:|
 | Diseño Software      |            1 | 6 |
@@ -35,6 +37,7 @@ de Ingeniería de Telecomunicación de la URJC.
 | | | |
 
 ### Curso 3º
+
 | Asignatura        | Cuatrimestre | Créditos |
 | :------------- |:-------------:| -----:|
 | Ingeniería de Control|            1 | 6 |
@@ -50,6 +53,7 @@ de Ingeniería de Telecomunicación de la URJC.
 | | | | 
 
 ### Curso 4º
+
 | Asignatura        | Cuatrimestre | Créditos |
 | :------------- |:-------------:| -----:|
 | Aprendizaje Automático |            1 | 6 |
