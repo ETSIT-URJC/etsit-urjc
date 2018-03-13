@@ -1,8 +1,9 @@
-<img src="../../logo-etsit.png" alt="logo-urjc" style="width: 150px;" align="left" /> [ETSIT URJC](http://open.etsit.urjc.es) es un espacio de encuentro abierto a los futuros
+<img src="../../logo-etsit.png" alt="logo-urjc" style="width: 150px;" align="left" /> [open ETSIT URJC](http://open.etsit.urjc.es) es un espacio de encuentro abierto a los futuros
 alumnos, a los actuales y a los exalumnos de la Escuela Técnica Superior
 de Ingeniería de Telecomunicación de la URJC.
 
 ***
+[Pregúntanos lo que necesites saber sobre los estudios de la ETSIT URJC y te contestaremos](https://docs.google.com/forms/d/e/1FAIpQLSfq8PPwKMqxfPQz08-ZcpVyQrPoycx_PFC5D_5j7A9lUUfr4w/viewform)
 
 
 
