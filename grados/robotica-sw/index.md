@@ -1,8 +1,7 @@
-<img src="../../logo-etsit.png" alt="logo-urjc" style="width: 200px;" align="left" /> 
-
-ETSIT URJC es un espacio de encuentro abierto a los futuros
+<img src="../../logo-etsit.png" alt="logo-urjc" style="width: 200px;" align="left" /> ETSIT URJC es un espacio de encuentro abierto a los futuros
 alumnos, a los actuales y a los exalumnos de la Escuela Técnica Superior
 de Ingeniería de Telecomunicación de la URJC.
+
 
 ## Grado en Ingeniería Robótica Software
 
