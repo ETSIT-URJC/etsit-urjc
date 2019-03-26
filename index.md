@@ -47,14 +47,14 @@ El edificio Hangar/Laboratorio VI sigue llenándose de instrumental, naves aeroe
 
 
 El carácter experimental y altamente especializado de los estudios de
-una escuela de ingeniería de telecomunicación, de aeronáutica,
-biomédica y robótica software de calidad conlleva que cada semana los
-1200 alumnos de la escuela tengan que realizar sus clases de grado en
-laboratorios docentes equipados con material didáctico de laboratorio
-diverso, con hardware y software muy especializado.
+ingenierías como las de telecomunicación, aeroespacial, biomédica o
+robótica software, precisa que cada semana los 1200 alumnos de la
+escuela puedan realizar sus clases de grado en laboratorios docentes
+equipados con material didáctico de laboratorio muy diverso, con
+hardware y software altamente especializado.
 
 En la ETSIT nos preocupa especialmente este aspecto de la
-docencia. Cada vez son más las asignaturas que se imparten
+docencia: cada vez son más las asignaturas que se imparten
 íntegramente en laboratorios. Muchas otras tienen docencia en
 laboratorios todas las semanas.
 
