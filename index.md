@@ -4,7 +4,6 @@ alumnos, a los actuales y a los exalumnos de la Escuela Técnica Superior
 de Ingeniería de Telecomunicación de la URJC.
 
 *** 
-Pregúntanos [lo que necesites saber sobre los estudios de la ETSIT URJC y te contestaremos.](https://docs.google.com/forms/d/e/1FAIpQLSfq8PPwKMqxfPQz08-ZcpVyQrPoycx_PFC5D_5j7A9lUUfr4w/viewform)
 
 Estás invitado a venir a
 visitarnos al campus de Fuenlabrada. [Apúntate](https://docs.google.com/forms/d/e/1FAIpQLSfnzPPIRAhHdoPxEn4VdFX1zP4V9BfO_-W3WGLmf9v__glBLw/viewform)
@@ -12,8 +11,7 @@ para conocer in situ los laboratorios de nuestra escuela en el campus
 de Fuenlabrada de la URJC: los profesores te explicarán qué se hace en
 cada laboratorio, podrás asistir como oyente a clases reales y participar en actividades preparadas para los futuros alumnos de nuestra escuela. **¡No te lo pierdas!**
 
-¿Qué grados de ingeniería se pueden estudiar en el campus de Fuenlabrada de la URJC?
-[![Grados de ingeniería en el campus de Fuenlabrada](http://freegifmaker.me/images/2eMtf/)](https://youtu.be/im4MM8BU7KU)
+<iframe width="853" height="480" src="https://www.youtube.com/embed/p0QeWRhTjL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Nuestros alumnos se divierten aprendiendo en las aulas, en los laboratorios, y por todo el campus:
 [![Mira lo que hacen nuestros alumnos](https://j.gifs.com/kZgMAK.gif)](https://www.youtube.com/watch?v=SQVHy4zkUa0)
