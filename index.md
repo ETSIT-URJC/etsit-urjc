@@ -7,7 +7,7 @@ de Ingeniería de Telecomunicación de la URJC.
 Pregúntanos [lo que necesites saber sobre los estudios de la ETSIT URJC y te contestaremos.](https://docs.google.com/forms/d/e/1FAIpQLSfq8PPwKMqxfPQz08-ZcpVyQrPoycx_PFC5D_5j7A9lUUfr4w/viewform)
 
 Estás invitado a venir a
-visitarnos al campus de Fuenlabrada. [Apúntate](https://docs.google.com/forms/d/e/1FAIpQLScOgBeQpwtdsDgNUp7CHEr-YBsJX2y7Aga453hMLL6sPR157g/viewform)
+visitarnos al campus de Fuenlabrada. [Apúntate](https://docs.google.com/forms/d/e/1FAIpQLSfnzPPIRAhHdoPxEn4VdFX1zP4V9BfO_-W3WGLmf9v__glBLw/viewform)
 para conocer in situ los laboratorios de nuestra escuela en el campus
 de Fuenlabrada de la URJC: los profesores te explicarán qué se hace en
 cada laboratorio, podrás asistir como oyente a clases reales y participar en actividades preparadas para los futuros alumnos de nuestra escuela. **¡No te lo pierdas!**
