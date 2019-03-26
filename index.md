@@ -1,5 +1,4 @@
-<img src="logo-etsit.png" alt="logo-urjc" style="width: 200px;" align="left" /> open
-
+<img src="logo-etsit.png" alt="logo-urjc" style="width: 200px;" align="left" /> 
 Estás invitado a venir a visitarnos con familiares y amigos al campus
 de
 Fuenlabrada. [Apúntate](https://docs.google.com/forms/d/e/1FAIpQLSfnzPPIRAhHdoPxEn4VdFX1zP4V9BfO_-W3WGLmf9v__glBLw/viewform)
@@ -9,11 +8,17 @@ cada laboratorio, podrás asistir como oyente a clases reales y
 participar en actividades preparadas para los futuros alumnos de
 nuestra escuela. **¡No te lo pierdas!**
 
+
+¿Quieres saber qué ingenierías se pueden estudiar en el campus de Fuenlabrada? 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/p0QeWRhTjL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Lee este artículo para saber más sobre las salidas profesionales de la ingeniería de telecomunicación: [El ingeniero de telecomunicación, un perfil profesional que escasea](https://cincodias.elpais.com/cincodias/2017/12/07/fortunas/1512672717_671641.html). Y no olvides ver este vídeo sobre *los ingenieros de lo invisible*:
-[![¿La ingeniería de Telecomunicación?](https://j.gifs.com/oQm8NK.gif)](https://www.youtube.com/watch?v=HG6zss64QIQ) 
+Escucha lo que tienen que contar nuestros exalumnos de ingeniería en tecnologías de telecomunicación, en telemática, en sistemas de telecomunicación y en sistemas audiovisuales y multimedia, *los ingenieros de lo invisible*:
+<iframe width="853" height="480" src="https://www.youtube.com/embed/XQAm0f2qFHE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Lee este artículo para saber más sobre las salidas profesionales de la
+ingeniería de telecomunicación: [El ingeniero de telecomunicación, un
+perfil profesional que
+escasea](https://cincodias.elpais.com/cincodias/2017/12/07/fortunas/1512672717_671641.html).
 
 
 
