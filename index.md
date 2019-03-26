@@ -140,8 +140,6 @@ instalaciones en el Campus de Fuenlabrada y de Alcorcón.
 # Actualidad ETSIT URJC
 <a class="twitter-timeline" data-width="400" data-theme="dark" href="https://twitter.com/ETSIT_URJC?ref_src=twsrc%5Etfw">Tweets by ETSIT_URJC</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-[Pregúntanos lo que necesites saber sobre los estudios de la ETSIT URJC y te contestaremos](https://docs.google.com/forms/d/e/1FAIpQLSfq8PPwKMqxfPQz08-ZcpVyQrPoycx_PFC5D_5j7A9lUUfr4w/viewform)
-
 Estás invitado a venir a
 visitarnos al campus de Fuenlabrada. [Apúntate](https://docs.google.com/forms/d/e/1FAIpQLSfnzPPIRAhHdoPxEn4VdFX1zP4V9BfO_-W3WGLmf9v__glBLw/viewform)
 para conocer in situ los laboratorios de nuestra escuela en el campus
