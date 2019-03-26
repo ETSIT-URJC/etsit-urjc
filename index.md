@@ -16,9 +16,6 @@ nuestra escuela. **¡No te lo pierdas!**
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/p0QeWRhTjL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Nuestros alumnos se divierten aprendiendo en las aulas, en los laboratorios, y por todo el campus:
-[![Mira lo que hacen nuestros alumnos](https://j.gifs.com/kZgMAK.gif)](https://www.youtube.com/watch?v=SQVHy4zkUa0)
-
 Lee este artículo para saber más sobre las salidas profesionales de la ingeniería de telecomunicación: [El ingeniero de telecomunicación, un perfil profesional que escasea](https://cincodias.elpais.com/cincodias/2017/12/07/fortunas/1512672717_671641.html). Y no olvides ver este vídeo sobre *los ingenieros de lo invisible*:
 [![¿La ingeniería de Telecomunicación?](https://j.gifs.com/oQm8NK.gif)](https://www.youtube.com/watch?v=HG6zss64QIQ) 
 
@@ -153,7 +150,10 @@ Ethernet 100 Mbit/s.
 **Otros recursos no materiales**
 Acceso remoto completo a las estaciones de trabajo Linux a 1Gbps, Servidor de repositorios Git GitLab y servidor de base de datos MySQL, a disposición de los alumnos de la ETSIT.
 
-	Para garantizar el correcto funcionamiento y mantenimiento de estas instalaciones, la ETSIT cuenta con un equipo humano de cinco técnicos de Laboratorio dedicados a tiempo completo al mantenimiento de estas instalaciones en el Campus de Fuenlabrada y de Alcorcón.
+Para garantizar el correcto funcionamiento y mantenimiento de estas
+instalaciones, la ETSIT cuenta con un equipo humano de cinco técnicos
+de Laboratorio dedicados a tiempo completo al mantenimiento de estas
+instalaciones en el Campus de Fuenlabrada y de Alcorcón.
 
 
 
