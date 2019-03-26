@@ -13,7 +13,7 @@ de Fuenlabrada de la URJC: los profesores te explicarán qué se hace en
 cada laboratorio, podrás asistir como oyente a clases reales y participar en actividades preparadas para los futuros alumnos de nuestra escuela. **¡No te lo pierdas!**
 
 ¿Qué grados de ingeniería se pueden estudiar en el campus de Fuenlabrada de la URJC?
-[![Grados de ingeniería en el campus de Fuenlabrada](https://j.gifs.com/kZgMAK.gif)](https://youtu.be/im4MM8BU7KU)
+[![Grados de ingeniería en el campus de Fuenlabrada](http://freegifmaker.me/images/2eMtf/)](https://youtu.be/im4MM8BU7KU)
 
 Nuestros alumnos se divierten aprendiendo en las aulas, en los laboratorios, y por todo el campus:
 [![Mira lo que hacen nuestros alumnos](https://j.gifs.com/kZgMAK.gif)](https://www.youtube.com/watch?v=SQVHy4zkUa0)
