@@ -8,6 +8,7 @@ cada laboratorio, podrás asistir como oyente a clases reales y
 participar en actividades preparadas para los futuros alumnos de
 nuestra escuela. **¡No te lo pierdas!**
 
+___
 
 ¿Quieres saber qué ingenierías se pueden estudiar en el campus de Fuenlabrada? 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/p0QeWRhTjL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
