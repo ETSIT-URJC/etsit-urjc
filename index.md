@@ -40,7 +40,7 @@ escasea](https://cincodias.elpais.com/cincodias/2017/12/07/fortunas/1512672717_6
   * [Máster Universitario en Ingeniería de Telecomunicación](https://www.urjc.es/estudios/master/872-ingenieria-de-telecomunicacion)
 
 
-# Conoce los 24 laboratorios de la ETSIT en el campus de Fuenlabrada
+# Conoce los 26 laboratorios de la ETSIT en el campus de Fuenlabrada
 
 Cada semana cientos de alumnos tienen sus clases de grado en los 24
 laboratorios que la ETSIT URJC tiene en el Campus de
@@ -61,13 +61,11 @@ Prácticas en los laboratorios de Ingeniería Biomédica:
 
 En algunas asignaturas además los alumnos disponen de laboratorios portables compuestos de material que pueden llevarse a casa para trabajar fuera de la universidad, como este de la asignatura Tecnologías y Protocolos de Internet de Nueva Generación, en el que los alumnos reciben un laboratorio compuesto de switches SDN OpenFlow 1.5 y 2 Raspberry Pi. Pincha en el siguiente vídeo:
 
-[![Laboratorios portables](https://j.gifs.com/vowvAg.gif)](https://www.youtube.com/watch?v=xmSDHa7atms). [Les encanta a nuestros alumnos](https://twitter.com/eva_cb/status/963034226810671104).
+[![Laboratorios portables](https://j.gifs.com/vowvAg.gif)](https://www.youtube.com/watch?v=xmSDHa7atms). 
 
 [Recuerda que puedes venir
 a visitar las instalaciones de la ETSIT en Fuenlabrada con familiares y amigos](https://docs.google.com/forms/d/e/1FAIpQLSfnzPPIRAhHdoPxEn4VdFX1zP4V9BfO_-W3WGLmf9v__glBLw/viewform):
 
-
-**Conoce los 26 laboratorios de la ETSIT en el campus de Fuenlabrada**
 
 El carácter experimental y altamente especializado de los estudios de
 una escuela de ingeniería de telecomunicación, de aeronáutica,
