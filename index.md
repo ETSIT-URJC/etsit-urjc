@@ -21,7 +21,7 @@ perfil profesional que
 escasea](https://cincodias.elpais.com/cincodias/2017/12/07/fortunas/1512672717_671641.html).
 
 El edificio Hangar/Laboratorio VI sigue llenándose de instrumental, naves aeroespaciales y simuladores de vuelo. Ya está casi a punto de poder ser utilizado por nuestros alumnos de grado. Entra a verlo en este vídeo:
-[![Laboratorios VI](https://j.gifs.com/Jq1zVo.gif)](https://www.youtube.com/watch?v=lZEAVjVpQ1U)
+<iframe width="853" height="480" src="https://www.youtube.com/embed/lZEAVjVpQ1U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
