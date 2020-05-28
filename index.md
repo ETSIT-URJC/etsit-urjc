@@ -1,12 +1,4 @@
 <img src="logo-etsit.png" alt="logo-urjc" style="width: 200px;" align="left" /> 
-Estás invitado a venir a visitarnos con familiares y amigos al campus
-de
-Fuenlabrada. [Apúntate](https://docs.google.com/forms/d/e/1FAIpQLSfnzPPIRAhHdoPxEn4VdFX1zP4V9BfO_-W3WGLmf9v__glBLw/viewform)
-para conocer in situ los laboratorios de nuestra escuela en el campus
-de Fuenlabrada de la URJC: los profesores te explicarán qué se hace en
-cada laboratorio, podrás asistir como oyente a clases reales y
-participar en actividades preparadas para los futuros alumnos de
-nuestra escuela. **¡No te lo pierdas!**
 
 ___
 
